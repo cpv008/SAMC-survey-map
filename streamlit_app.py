@@ -149,6 +149,14 @@ mappings = {
         "3 to 4": 3,
         "5 to 6": 4,
         "7 or more": 5
+    },
+    "age_range": {
+	"Under 18": 1,
+        "18 to 29": 2,
+        "30 to 44": 3,
+        "45 to 59": 4,
+        "60 to 74": 5,
+	"75 and older": 6
     }
 }
 
